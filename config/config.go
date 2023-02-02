@@ -15,6 +15,7 @@ type ConfigList struct {
 	Static    string
 }
 
+
 var Config ConfigList
 
 func init() {
